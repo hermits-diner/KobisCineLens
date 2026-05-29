@@ -1,0 +1,6 @@
+{
+  "name": "Korean Box Office",
+  "description": "KOBIS OpenAPI를 연동하여 일일 박스오피스 순위 및 각 영화의 상세 정보를 조회하는 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
